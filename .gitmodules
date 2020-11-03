@@ -1,0 +1,3 @@
+[submodule "spoiler"]
+	path = spoiler
+	url = https://github.com/U-cauda-elongata/spoiler.git

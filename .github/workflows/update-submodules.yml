@@ -1,0 +1,12 @@
+name: Update submodules
+on: workflow_dispatch
+jobs:
+  submodule-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: git submodule update --remote
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update submodule
+          commit_author: GitHub Actions <actions@github.com>

@@ -4,6 +4,6 @@
 [submodule "g123-sprite-viewer"]
 	path = g123-sprite-viewer
 	url = https://github.com/U-cauda-elongata/g123-sprite-viewer.git
-[submodule "pictsquare-avatar-viewer"]
-	path = pictsquare-avatar-viewer
-	url = https://github.com/U-cauda-elongata/pictsquare-avatar-viewer.git
+[submodule "sprite-viewer"]
+	path = sprite-viewer
+	url = https://github.com/U-cauda-elongata/sprite-viewer.git

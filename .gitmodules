@@ -7,3 +7,6 @@
 [submodule "sprite-viewer"]
 	path = sprite-viewer
 	url = https://github.com/U-cauda-elongata/sprite-viewer.git
+[submodule "calendar"]
+	path = calendar
+	url = https://github.com/U-cauda-elongata/calendar.git

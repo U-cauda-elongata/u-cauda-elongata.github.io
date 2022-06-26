@@ -10,3 +10,4 @@
 [submodule "calendar"]
 	path = calendar
 	url = https://github.com/U-cauda-elongata/calendar.git
+	branch = gh-pages
